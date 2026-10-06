@@ -1,0 +1,22 @@
+# Core Machine Learning & Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+joblib>=1.3.0
+
+# Natural Language Processing & Text Cleaning
+beautifulsoup4>=4.12.0
+contractions>=0.1.73
+
+# Data Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Dataset Acquisition
+gdown>=5.0.0
+
+# Interactive Web Application
+streamlit>=1.30.0
+
+# Notebook Environment
+jupyter>=1.0.0
