@@ -6,7 +6,9 @@ An end-to-end, reproducible Machine Learning project for binary sentiment classi
 
 ## 🚀 Live Demo
 
-[Live Demo](YOUR_STREAMLIT_APP_URL) *(Deployment placeholder — configure with your Streamlit Community Cloud URL)*
+Experience the live application on Streamlit Community Cloud:
+
+👉 **[Launch Streamlit Live Demo](https://ahmedshaban0-imdb-sentiment-analysis-app-enwzni.streamlit.app/)**
 
 ---
 
